@@ -218,8 +218,10 @@ temp_docs/
 pdf_cache/
 
 # API keys and secrets
-.env.local
-.env.production
+.env
+.env.*
+!.env.example
+*.env
 secrets.json
 config.json
 credentials.json
