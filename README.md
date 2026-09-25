@@ -52,8 +52,8 @@ User Query ───────> RAGRetriever ───┴───> Top-k Cont
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AntonioHellin/ingesta_doc_rag.git
-   cd ingesta_doc_rag
+   git clone https://github.com/AntonioHellin/rag-document-assistant.git
+   cd rag-document-assistant
    ```
 
 2. **Create and activate a virtual environment**:
